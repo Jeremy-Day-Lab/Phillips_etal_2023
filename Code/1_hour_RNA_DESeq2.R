@@ -142,7 +142,7 @@ resFiltered_sig$ensembl_gene_id <- row.names(resFiltered_sig)
 #For all genes
 # Specify Ensembl anotation version. Use version which matches gtf file version used in primary pipeline.
 ensembl <- useMart("ensembl",
-                   dataset = "rnorvegicus_gene_ensembl") #Should pull the latest ensembl (This analysis was completed on 02/07/2022)
+                   dataset = "rnorvegicus_gene_ensembl") #Should pull the latest ensembl (This analysis was completed on 02/07/2023)
 
 #Pull wanted attributes
 genes <- getBM(attributes = c("ensembl_gene_id", 
