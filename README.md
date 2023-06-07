@@ -1,4 +1,4 @@
-# Phillips etal 2023
+# Phillips et al 2023
 This repository contains R code for the analysis of next generation sequencing data included in Phillips et al 2023, bioRxiv. Any questions should be directed to jjday@uab.edu and rphill3@uab.edu. 
 
 # Citations
