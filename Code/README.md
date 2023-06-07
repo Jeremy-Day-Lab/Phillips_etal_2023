@@ -9,3 +9,4 @@ Directory that will contain all code
 7. CalculateOddsRatio.R : Calculation of Odds Ratios for the genomic location of four hour DARs or vehicle peaks. 
 8. Repeated_rn7_ATAC.R: ATAC-seq analysis of repeated cocaine snRNA-seq dataset realigned to mRatBN7.2.105.
 9. Cicero_analysis.R: Co-accessibility analysis for repeated rn7 ATAC-seq data, includes Drd1-MSN specific analysis as well. 
+10. TF_Motif_DimensionalityReduciton.R : Code to generate transcription factor UMAPs and clustering. 
