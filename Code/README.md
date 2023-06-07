@@ -1,5 +1,4 @@
-Directory that will contain all code
-
+File descriptions: 
 1. 1_hour_RNA_DESeq2.R : Script to calculate DEGs from DIV11 striatal neurons treated with 10mM KCl for 1 hour. 
 2. 4_hour_RNA_DESeq2.R : Script to calculate DEGs from DIV11 striatal neurons treated with 10mM KCl for 4 hours.
 3. one_hour_DAR_calls.R : Script to calculate differentially accessible regions from ATAC-seq data from DIV11 striatal neurons treated with 10mM KCl for 1 hour.
